@@ -1,4 +1,4 @@
-# Buckshot Roulette 恶魔轮盘赌 辅助器
+# Buckshot Roulette 恶魔轮盘赌 记数辅助器
 
 <div align="center">
 
